@@ -9,6 +9,7 @@ Icecast, LiquidSoap, all using @AzuraCast platform
 
 ## note
 i am a blind user, this is a simple modified app, not done 100% by me
+
 pull request welcome!
 
 https://twitter.com/islamzone1438
