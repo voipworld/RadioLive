@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">إذاعة البرهان</string>
+
+    <string-array name="radio_stations">
+        <item>الجودة العالية</item>
+		<item>الجودة المتوسطة</item>
+		<item>الجودة الضعيفة</item>
+                                                                    </string-array>
+
+    <string-array name="streams">
+        <item>http://stream.alburhanfm.com/radio/8000/128k</item>
+		        <item>http://stream.alburhanfm.com/radio/8000/64k</item>
+		        <item>http://stream.alburhanfm.com/radio/8000/32k</item>
+                                    </string-array>
+
+    <!--Intent Filters-->
+    <string name="play_started_filter">play_started_filter</string>
+    <string name="loading_station_filter">loading_station_filter</string>
+
+    <!--Intent Data-->
+    <string name="loading_station_boolean">loading_station_boolean</string>
+    <string name="station_path_string">station_path_string</string>
+
+    <!--Saved Variables-->
+    <string name="saved_station_int">saved_station_int</string>
+	<string translatable="false" name="interstitialId">ca-app-pub-6293503194496562/7394578337</string>
+	<string translatable="false" name="banner_id">ca-app-pub-6293503194496562/6489705132</string>
+	<string name="quality">اختر الجودة</string>
+	<string name="volume">مدى الصوت</string>
+	<string name="ListeningTo">أستمع إلى </string>
+	<string name="Through">عبر </string>
+	<string name="share">مشاركة</string>
+	    <string name="app_link">"http://www.alburhanfm.net"</string>
+</resources>

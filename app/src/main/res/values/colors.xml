@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="off">#5a595b</color>
+    	<color name="on">#80cbc4</color>
+		<color name="timestamp">#a0a3a7</color>
+    <color name="blue">#000099</color>
+    <color name="skyBlue">#8c8c8c</color>
+    </resources>
